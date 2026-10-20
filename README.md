@@ -44,10 +44,4 @@ Figures that could not be sourced are marked `NEEDS VERIFICATION` rather than es
 
 ---
 
-## Built on Battery-Emulator
-
-The firmware builds on [dalathegreat/Battery-Emulator](https://github.com/dalathegreat/Battery-Emulator), an open-source project for talking to EV battery packs over CAN. Credit where it is due — that project made this practical.
-
----
-
 📖 **[docs.bms-ev.com](https://docs.bms-ev.com/)** · 🛒 [bms-ev.com](https://bms-ev.com/) · ✉️ office@bms-ev.com
